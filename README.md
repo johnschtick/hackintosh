@@ -21,7 +21,7 @@ What's working:<ul>
 </ul><br><br>
 What's not working
 <ul><li>Airportltwm (Heliport works but no Airdrop/other features)</li>
-<li>Keyboard wake from sleep (GPRW Patch was needed for getting sleep to work, but it disables USB wake from sleep, so need power button to wake from sleep</li>
+<li>Keyboard wake from sleep (GPRW Patch was needed for getting sleep to work, but it disables USB wake from sleep, so need power button to wake from sleep)</li>
 <li>RTC Wake from sleep (a fix for this probably exists, but I've been lazy to search for it. Might fix it sometime in the future, but for now the PC wakes up from sleep every hour or so)</li>
 </ul><br><br>
 <li>I followed <a href=https://www.reddit.com/r/hackintosh/comments/sp1zgv/opencore_alder_lake_12thgen_intel_hackintosh/>this</a> guide for Alder Lake specific changes, as the Dortania website doesn't have a guide for Alder Lake yet</li>
